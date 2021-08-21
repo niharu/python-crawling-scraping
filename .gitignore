@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 chapter_2/dp.html
 chapter_2/rss2.xml
+chapter_2/top_cities.db
+chapter_2/books.db
